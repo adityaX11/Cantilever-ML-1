@@ -23,6 +23,7 @@ This project demonstrates:
 
 ## 📁 Project Structure
 
+```Structure of Prject Application
 machinlearning-1/
 ├── data/
 │   └── movie_reviews.csv          # Dataset with movie reviews
@@ -38,6 +39,7 @@ machinlearning-1/
 ├── requirements.txt               # Python dependencies
 ├── run_all_models.py              # Main execution script
 └── README.md                      # This file
+```
 
 ## 🚀 Quick Start
 
