@@ -5,6 +5,7 @@ A comprehensive sentiment analysis project that classifies movie reviews as posi
 ## 🎯 Project Overview
 
 This project demonstrates:
+
 - **Text preprocessing** using NLTK (tokenization, lemmatization, stopword removal)
 - **Feature extraction** using TF-IDF vectorization
 - **Machine Learning** using Support Vector Machine (SVM)
@@ -22,7 +23,6 @@ This project demonstrates:
 
 ## 📁 Project Structure
 
-```
 machinlearning-1/
 ├── data/
 │   └── movie_reviews.csv          # Dataset with movie reviews
@@ -38,21 +38,23 @@ machinlearning-1/
 ├── requirements.txt               # Python dependencies
 ├── run_all_models.py              # Main execution script
 └── README.md                      # This file
-```
 
 ## 🚀 Quick Start
 
 ### 1. Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 2. Run All Models
+
 ```bash
 python run_all_models.py
 ```
 
 This will:
+
 - Train the SVM model
 - Generate visualizations
 - Save all results and plots
@@ -60,28 +62,31 @@ This will:
 ### 3. Individual Model Execution
 
 **SVM Model:**
+
 ```bash
 python src/train_svm.py
 ```
 
 **Visualizations:**
+
 ```bash
 python src/visualize_results.py
 ```
 
 **Test Preprocessing:**
+
 ```bash
 python src/test_preprocess.py
 ```
 
-## 📊 Expected Outputs
-
 ### Console Output
+
 - Classification reports (precision, recall, F1-score)
 - Model training progress
 - Sample predictions
 
 ### Generated Files
+
 - `sentiment_distribution.png` - Sentiment class distribution
 - `review_length_analysis.png` - Review length analysis
 - `feature_importance.png` - Most important words
@@ -90,11 +95,13 @@ python src/test_preprocess.py
 ## 🔍 Interactive Analysis
 
 Open the Jupyter notebook for interactive exploration:
+
 ```bash
 jupyter notebook notebooks/sentiment_analysis_exploration.ipynb
 ```
 
 The notebook includes:
+
 - Data exploration and visualization
 - Preprocessing analysis
 - Model comparison
@@ -103,12 +110,14 @@ The notebook includes:
 ## 📈 Model Performance
 
 ### SVM Model
+
 - Uses TF-IDF features
 - Fast training and prediction
 - Good baseline performance
 - Interpretable feature importance
 
-### RNN Model
+### RNN Model (currently this is not work due to dependencies)
+
 - Uses word embeddings and LSTM layers
 - Captures sequential information
 - Better for complex language patterns
@@ -117,6 +126,7 @@ The notebook includes:
 ## 🎯 Key Features
 
 ### Text Preprocessing
+
 - **Lowercase conversion**
 - **Punctuation removal**
 - **Tokenization** using NLTK
@@ -124,11 +134,13 @@ The notebook includes:
 - **Stopword removal**
 
 ### Feature Engineering
+
 - **TF-IDF vectorization** for SVM
 - **Word embeddings** for RNN
 - **Sequence padding** for neural networks
 
 ### Model Evaluation
+
 - **Classification reports** (precision, recall, F1-score)
 - **Confusion matrices**
 - **Training history plots** (for RNN)
@@ -137,7 +149,9 @@ The notebook includes:
 ## 🔧 Customization
 
 ### Adding More Data
+
 Edit `data/movie_reviews.csv` to add more reviews:
+
 ```csv
 review,sentiment
 "Your review text here",positive
@@ -145,12 +159,15 @@ review,sentiment
 ```
 
 ### Modifying Preprocessing
+
 Edit `src/preprocess.py` to:
+
 - Add stemming
 - Include n-gram features
 - Customize stopwords
 
 ### Experimenting with Models
+
 - Try different SVM kernels
 - Adjust RNN architecture
 - Experiment with different embedding dimensions
@@ -158,19 +175,25 @@ Edit `src/preprocess.py` to:
 ## 🐛 Troubleshooting
 
 ### NLTK Resource Errors
+
 If you encounter NLTK resource errors:
+
 - The script automatically downloads required resources
 - Check internet connection
 - Manual download: `python -c "import nltk; nltk.download('all')"`
 
 ### TensorFlow Issues
+
 If RNN model fails:
+
 - Ensure TensorFlow is installed: `pip install tensorflow`
 - Check GPU compatibility
 - The SVM model will still work without TensorFlow
 
 ### Memory Issues
+
 For large datasets:
+
 - Reduce `max_features` in TF-IDF
 - Decrease `max_words` in RNN
 - Use smaller batch sizes
@@ -185,6 +208,7 @@ For large datasets:
 ## 🤝 Contributing
 
 Feel free to:
+
 - Add more preprocessing techniques
 - Implement additional models
 - Improve visualizations
@@ -196,16 +220,19 @@ This project is for educational purposes. Feel free to use and modify as needed.
 
 ---
 
-**Happy Sentiment Analysis! 🎬📊** 
-
 ## 🌐 Web-based GUI
 
 A modern web app for sentiment prediction and visualization using Streamlit.
+In this there are two features
+
+->1.Text formate csv file use.
+->2.Can upload csv file from Browser.
 
 ### Run the Web App
+
 ```bash
 streamlit run src/web_app.py
 ```
 
 - Enter a movie review and get instant prediction (SVM)
-- View all generated visualizations in your browser 
+- View all generated visualizations in your browser.
