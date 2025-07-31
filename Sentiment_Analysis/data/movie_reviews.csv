@@ -1,0 +1,209 @@
+review,sentiment
+"I loved this movie, it was fantastic!",positive
+"Terrible film. Waste of time.",negative
+"An excellent performance by the lead actor.",positive
+"The plot was boring and predictable.",negative
+"A masterpiece of modern cinema.",positive
+"Not my cup of tea. I didn't enjoy it.",negative
+"This film exceeded all my expectations. Brilliant storytelling!",positive
+"The acting was wooden and the dialogue was cringe-worthy.",negative
+"Absolutely breathtaking cinematography and direction.",positive
+"I couldn't wait for it to end. Boring from start to finish.",negative
+"The character development was outstanding and realistic.",positive
+"Poor special effects ruined the entire experience.",negative
+"A heartwarming story that touched my soul.",positive
+"The plot holes were so big you could drive a truck through them.",negative
+"Outstanding performances from the entire cast.",positive
+"The movie was a complete disappointment. Save your money.",negative
+"Beautiful soundtrack that perfectly complemented the story.",positive
+"The pacing was terrible - too slow in parts, too rushed in others.",negative
+"This is exactly what cinema should be - pure entertainment.",positive
+"The dialogue was so bad it was almost comical.",negative
+"Impeccable direction and masterful storytelling.",positive
+"The film lacked any coherent plot or character motivation.",negative
+"A true work of art that will stand the test of time.",positive
+"The movie was filled with clichés and predictable twists.",negative
+"Stunning visual effects that enhanced the story perfectly.",positive
+"The acting was so bad it was painful to watch.",negative
+"This film captured the essence of human emotion beautifully.",positive
+"The story made no sense and the ending was unsatisfying.",negative
+"An unforgettable experience that left me speechless.",positive
+"The movie was a complete waste of two hours of my life.",negative
+"Brilliant writing and exceptional character arcs.",positive
+"The film was pretentious and tried too hard to be artistic.",negative
+"A perfect blend of action, drama, and emotion.",positive
+"The movie was confusing and hard to follow.",negative
+"Outstanding production values and attention to detail.",positive
+"The film was derivative and unoriginal.",negative
+"A profoundly moving and thought-provoking film.",positive
+"The CGI was so fake it was distracting.",negative
+"Hilarious from beginning to end, I haven't laughed that hard in ages.",positive
+"Felt like a cheap knock-off of a much better movie.",negative
+"The score was hauntingly beautiful and elevated every scene.",positive
+"The characters were completely unrelatable and poorly written.",negative
+"A perfect family movie with a great message.",positive
+"The movie tried to tackle too many themes and failed at all of them.",negative
+"The costume and set design were absolutely magnificent.",positive
+"I was checking my watch the entire time. A total drag.",negative
+"An instant classic. They don't make them like this anymore.",positive
+"The story was a convoluted mess. I'm still not sure what happened.",negative
+"The lead actress gave a career-defining performance.",positive
+"Zero chemistry between the main actors. It was painful to watch.",negative
+"This is the kind of feel-good movie that restores your faith in humanity.",positive
+"Pretentious nonsense. All style and no substance.",negative
+"The suspense was masterfully built. I was on the edge of my seat!",positive
+"The jokes consistently fell flat. An awkward and unfunny comedy.",negative
+"A visual spectacle that needs to be seen on the biggest screen possible.",positive
+"This felt like a student film with a big budget. Incredibly amateurish.",negative
+"The dialogue was sharp, witty, and intelligent.",positive
+"A soulless cash grab with no artistic merit whatsoever.",negative
+"An emotionally powerful story that will stay with you long after it's over.",positive
+"The plot twists were predictable from a mile away.",negative
+"The action sequences were inventive and brilliantly choreographed.",positive
+"It was so loud and chaotic I left with a headache.",negative
+"A charming and delightful film that's full of heart.",positive
+"The whole thing was just... bland. Utterly forgettable.",negative
+"This product exceeded my expectations. High-quality build and works perfectly.",positive
+"Broke after just one week of use. Very poor quality.",negative
+"The user interface is intuitive and easy to navigate. Great design!",positive
+"The instructions were confusing and poorly written.",negative
+"Amazing value for the price. I would definitely buy this again.",positive
+"This is way overpriced for what it offers. Not worth the money.",negative
+"Customer service was incredibly helpful and resolved my issue quickly.",positive
+"I've been on hold with customer support for over an hour. Terrible service.",negative
+"The battery life on this device is incredible. Lasts for days!",positive
+"The battery dies so quickly, I have to charge it multiple times a day.",negative
+"Shipping was fast and the item arrived in perfect condition.",positive
+"The package arrived late and the box was damaged.",negative
+"This software has saved me so much time. It's a game-changer for my workflow.",positive
+"The app is full of bugs and crashes constantly. It's unusable.",negative
+"The fabric is so soft and comfortable. Feels very luxurious.",positive
+"The material feels cheap and scratchy. Very uncomfortable to wear.",negative
+"The assembly was straightforward and took less than 15 minutes.",positive
+"A nightmare to assemble. The parts didn't fit together properly.",negative
+"Looks even better in person than in the pictures. I'm thrilled with this purchase.",positive
+"The color was completely different from what was advertised online. Very disappointed.",negative
+"It's a solid, reliable product that does exactly what it promises.",positive
+"This product failed to deliver on its main feature. A complete letdown.",negative
+"The sound quality is crisp and clear. Excellent for music and podcasts.",positive
+"The audio sounds tinny and has a constant background hiss.",negative
+"I highly recommend this to anyone looking for a solution in this category.",positive
+"Look elsewhere. There are much better options available.",negative
+"The attention to detail in this film's world-building is astounding.",positive
+"The film meanders without any real purpose or direction.",negative
+"A triumphant return to form for the director.",positive
+"The pacing is a disaster, dragging in the middle and rushing the conclusion.",negative
+"The supporting cast was phenomenal, each one delivering a memorable performance.",positive
+"The side characters were nothing more than stereotypes.",negative
+"It's a rollercoaster of emotions. You'll laugh, you'll cry.",positive
+"I felt absolutely nothing watching this. Emotionally hollow.",negative
+"The practical effects were refreshing and looked incredible.",positive
+"The director's self-indulgence ruined what could have been a good story.",negative
+"A bold and innovative piece of filmmaking.",positive
+"It's generic and plays it way too safe.",negative
+"The ending was powerful and provided a perfect conclusion.",positive
+"The climax of the film was a massive anti-climax.",negative
+"A gripping thriller that keeps you guessing until the very end.",positive
+"So predictable you could write the script yourself after the first 10 minutes.",negative
+"The build quality is exceptional. Feels sturdy and durable.",positive
+"Feels flimsy and cheap. I'm afraid it's going to break.",negative
+"This service is a lifesaver. Incredibly efficient and reliable.",positive
+"The service was slow and the results were unsatisfactory.",negative
+"Performance is top-notch. Handles everything I throw at it with ease.",positive
+"The performance is sluggish and it struggles with basic tasks.",negative
+"The design is sleek, modern, and beautiful.",positive
+"The design is ugly and looks dated.",negative
+"Absolutely worth every penny. A fantastic investment.",positive
+"A total rip-off. I feel like I was scammed.",negative
+"The screen is bright, vibrant, and a joy to look at.",positive
+"The display is dim and the colors look washed out.",negative
+"Setup was a breeze. I was up and running in minutes.",positive
+"The setup process was a nightmare. Incredibly frustrating.",negative
+"This is a must-have accessory for anyone who owns the main product.",positive
+"Completely unnecessary and poorly implemented.",negative
+"The camera quality is stunning. The photos are sharp and clear.",positive
+"The camera is terrible. Photos are grainy and out of focus.",negative
+"I'm so glad I bought this. It's improved my daily routine significantly.",positive
+"I regret this purchase. It's been nothing but a headache.",negative
+"The editing was seamless and enhanced the story's flow.",positive
+"The editing was jarring and made the movie hard to follow.",negative
+"A truly original concept that was executed perfectly.",positive
+"The idea had potential, but the execution was awful.",negative
+"This is my new favorite movie. I can't wait to watch it again.",positive
+"I would not recommend this film to anyone.",negative
+"The warranty and support options are excellent.",positive
+"The warranty is a joke and support is non-existent.",negative
+"The software updates have consistently improved the product.",positive
+"Every update seems to introduce new bugs.",negative
+"It's incredibly versatile. I use it for so many different things.",positive
+"It's a one-trick pony, and it doesn't even do that one trick well.",negative
+"The packaging was premium and protected the item well.",positive
+"It arrived in a flimsy box with no padding. I'm surprised it wasn't broken.",negative
+"The world-building was immersive and fascinating.",positive
+"The setting was generic and uninspired.",negative
+"A powerful and important film that everyone should see.",positive
+"A pointless movie with nothing to say.",negative
+"This chair is ergonomically fantastic. Super comfortable for long hours.",positive
+"This chair is a back-breaker. I can't sit in it for more than 10 minutes.",negative
+"The speaker is loud and the bass is deep. Sounds amazing.",positive
+"The speaker is quiet and the sound is distorted at high volumes.",negative
+"A triumph of storytelling and filmmaking.",positive
+"An absolute trainwreck from start to finish.",negative
+"I've had this for over a year and it still works like new.",positive
+"It didn't even last a month before it stopped working.",negative
+"The team behind this service is professional and responsive.",positive
+"The company is unprofessional and ignores customer emails.",negative
+"The movie's message was inspiring and uplifting.",positive
+"The film's message was muddled and preachy.",negative
+"Clean, elegant, and powerful. A masterpiece of design.",positive
+"Clunky, confusing, and unreliable. A failure of design.",negative
+"I've recommended this to all my friends and family.",positive
+"I'm warning everyone I know to stay away from this product.",negative
+"The story is simple but executed with so much heart.",positive
+"The story tries to be complex but just ends up being a mess.",negative
+"A perfect rainy day movie. Cozy and entertaining.",positive
+"Even on a rainy day, I'd rather just stare at the wall.",negative
+"The on-screen graphics were clear and helpful.",positive
+"The user interface on the screen is cluttered and illogical.",negative
+"This tool has made my hobby so much more enjoyable.",positive
+"This gadget is more trouble than it's worth.",negative
+"The historical accuracy was impressive and well-researched.",positive
+"The film plays fast and loose with history, and it's distracting.",negative
+"The suspense is almost unbearable - in a good way!",positive
+"There was zero tension or suspense. I was just bored.",negative
+"A culturally significant film that will be studied for years.",positive
+"A forgettable piece of pop culture fluff.",negative
+"The app syncs perfectly across all my devices.",positive
+"The app constantly has sync issues and loses my data.",negative
+"This is the gold standard for products in this category.",positive
+"This is a bottom-of-the-barrel product. Avoid at all costs.",negative
+"The casting was perfect. Every actor felt right for their role.",positive
+"The miscasting of the main character ruined the entire film.",negative
+"It's fun, it's fresh, and it's fantastic.",positive
+"It's stale, derivative, and dull.",negative
+"A cinematic achievement of the highest order.",positive
+"A new low for the genre.",negative
+"The portability is a huge plus. It's lightweight and easy to carry.",positive
+"It's too heavy and bulky to be considered portable.",negative
+"The connectivity options are great, with plenty of ports.",positive
+"The lack of essential ports is a major design flaw.",negative
+"A wonderfully crafted narrative with a satisfying payoff.",positive
+"A poorly constructed story that goes nowhere.",negative
+"The humor is smart and genuinely funny.",positive
+"The humor is juvenile and forced.",negative
+"This has become an essential part of my toolkit.",positive
+"This ended up in the junk drawer after one use.",negative
+"Flawless performance from start to finish.",positive
+"Glitchy and unreliable from the moment I turned it on.",negative
+"The creators clearly poured their passion into this project.",positive
+"This feels like a cynical product made by a committee.",negative
+"A beautiful ode to the human spirit.",positive
+"An empty and cynical view of humanity.",negative
+"The power and efficiency of this machine are incredible.",positive
+"This thing is underpowered and struggles to get the job done.",negative
+"An absolute joy to watch.",positive
+"An agonizingly slow and painful watch.",negative
+"The materials used feel premium and high-end.",positive
+"The plastic feels cheap and is prone to scratches.",negative
+"I am completely satisfied with my purchase.",positive
+"I am completely dissatisfied and want my money back.",negative
